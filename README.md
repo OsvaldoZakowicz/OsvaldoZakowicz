@@ -1,16 +1,22 @@
-### Hi there 👋
+### Hola 👋
+
+Soy Zakowicz Osvaldo, entusiasta del desarrollo web fullstack.
+
+- 🔭 Estudiante Universitario de la carrera Analista en Sistemas de Computación!. Universidad Nacional de Misiones, Argentina 🇦🇷.
+- ⚡ Tengo conocimientos en HTML, CSS, Javascript y PHP.
+- 🌱 Actualmente estoy  aprendiendo Laravel 8, y Docker!
+- 😄 Apodo/Nickname: Osval_
 
 <!--
 **OsvaldoZakowicz/OsvaldoZakowicz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
+- 😄 Apodo/Nickname: Osval_
 - ⚡ Fun fact: ...
 -->
