@@ -7,6 +7,8 @@ Soy Zakowicz Osvaldo, entusiasta del desarrollo web fullstack.
 - 🌱 Actualmente estoy  aprendiendo Laravel 8, y Docker!
 - 😄 Apodo/Nickname: Osval_
 
+<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/OsvaldoZakowicz/OsvaldoZakowicz/blob/master/devcard.svg" width="400" alt="OsvaldoEmanuel's Dev Card"/></a>
+
 <!--
 **OsvaldoZakowicz/OsvaldoZakowicz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
