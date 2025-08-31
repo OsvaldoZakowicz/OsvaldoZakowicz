@@ -23,7 +23,6 @@ Analista en sistemas de computación y desarrollador web full stack, egresado en
 
 ## 📫 Contacto
 - LinkedIn: [Osvaldo Zakowicz](https://www.linkedin.com/in/osvaldo-emanuel-zakowicz/)
-- Email: osvaldozakowicz@gmail.com
 - Visita mi [portafolios profesional](https://osvaldo-zakowicz.netlify.app/)
 
 ---
