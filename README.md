@@ -7,7 +7,7 @@ Analista en sistemas de computación y desarrollador web full stack, egresado en
 
 ## 🛠️ Stack Tecnológico
 - **Backend**: PHP 8, Laravel 12+, MySQL 8+, Docker, Docker compose
-- **Frontend**: JavaScript ES6, HTML5, CSS3, TailwindCSS y Pico CSS
+- **Frontend**: JavaScript ES6, Vue 3, HTML5, CSS3, TailwindCSS y Pico CSS
 - **Principios**: KISS, SOLID
 - **Estándares**: PSR, ECMA
 - **Metodologías**: Proceso unificado (UP)
@@ -17,6 +17,7 @@ Analista en sistemas de computación y desarrollador web full stack, egresado en
 ## 🚀 En lo que estoy trabajando y mejorando
 - Laravel 12+ y PHP 8+
 - Docker y docker compose
+- Vue 3
 - Integracion de IA y Ollama en proyectos
 - UML y patrones de diseño
 - Desarrollando proyectos que apliquen buenas prácticas de código
